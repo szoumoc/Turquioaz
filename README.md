@@ -31,6 +31,6 @@ Turquioaz is a web app to rent luxury cars at your convenience.
 - JWT
 
 ## About us
-- [Anurag Das](https://github.com/oeuvars)
-- [Ritam Samanta](https://github.com/wrritam)
+- [Soumo Saha](https://github.com/szoumoc)
+
 
